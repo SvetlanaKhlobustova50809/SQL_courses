@@ -15,7 +15,7 @@
 
 ![](https://github.com/SvetlanaKhlobustova50809/SQL_courses/blob/main/shop15.jpg)
 
-Мой код:
+**Мой код:**
 ```
 select title, sum(amount1) as 'Количество',sum(cost) as 'Сумма'
 from (
@@ -36,3 +36,8 @@ select title,sum(buy_archive.amount) as amount1,sum(buy_archive.amount*buy_archi
 group by full_table.title
 order by 3 desc;
 ```
+
+**Вывод:**
+
+
+![](https://github.com/SvetlanaKhlobustova50809/SQL_courses/blob/main/2022-07-25_13-17-15.png)
