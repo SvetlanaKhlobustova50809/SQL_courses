@@ -44,7 +44,7 @@ order by 3 desc;
 
 
 
-Сертификат о прохождении курсов:
+**Сертификат о прохождении курсов:**
 
 
 ![](https://github.com/SvetlanaKhlobustova50809/SQL_courses/blob/main/SQL%20курс%20Степик_page-0001.jpg)
