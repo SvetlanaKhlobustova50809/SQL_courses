@@ -41,3 +41,10 @@ order by 3 desc;
 
 
 ![](https://github.com/SvetlanaKhlobustova50809/SQL_courses/blob/main/2022-07-25_13-17-15.png)
+
+
+
+Сертификат о прохождении курсов:
+
+
+![](https://github.com/SvetlanaKhlobustova50809/SQL_courses/blob/main/SQL%20курс%20Степик_page-0001.jpg)
